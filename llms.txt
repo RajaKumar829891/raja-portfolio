@@ -1,0 +1,20 @@
+# Raja Kumar — Senior Odoo Developer & ERP Consultant (India)
+
+> Raja Kumar is a senior Odoo developer and ERP consultant based in Bhopal, India, working remotely with clients worldwide. He implements, customises and supports Odoo 17, 18 and 19 (Community and Enterprise), with 10+ ERP projects and 100+ custom Odoo modules delivered.
+
+Contact: rajakumar829891@gmail.com · LinkedIn: https://www.linkedin.com/in/raja-kumar-cseaiml · GitHub: https://github.com/RajaKumar829891
+
+## Pages
+- [Portfolio home](https://raja-portfolio-lyart.vercel.app/): services, experience, projects, FAQ
+- [Hire an Odoo developer](https://raja-portfolio-lyart.vercel.app/odoo-developer/)
+- [Odoo developer in India](https://raja-portfolio-lyart.vercel.app/odoo-developer-india/)
+- [Odoo implementation services](https://raja-portfolio-lyart.vercel.app/odoo-implementation/)
+- [Zoho to Odoo migration](https://raja-portfolio-lyart.vercel.app/zoho-to-odoo-migration/)
+- [Odoo Community vs Enterprise guide](https://raja-portfolio-lyart.vercel.app/blog/odoo-community-vs-enterprise/)
+
+## Services
+- Odoo consultation and requirement analysis
+- Odoo ERP implementation (CRM, Sales, Inventory, Purchase, Accounting, Manufacturing, HR, Project, Website)
+- Custom Odoo module development (Python, OWL, QWeb, PostgreSQL)
+- Data migration to Odoo, including Zoho CRM and Zoho Books; Odoo version upgrades
+- Odoo.sh and Docker hosting, backups; API and AI integrations
