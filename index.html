@@ -9,7 +9,9 @@
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="https://raja-portfolio-lyart.vercel.app/">
 <meta name="theme-color" content="#714B67">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
 <!-- Open Graph / social sharing -->
 <meta property="og:type" content="profile">
@@ -38,9 +40,9 @@
       "@id": "https://raja-portfolio-lyart.vercel.app/#raja",
       "name": "Raja Kumar",
       "jobTitle": "Senior Odoo Developer & ERP Consultant",
+      "image": "https://raja-portfolio-lyart.vercel.app/avatar.jpg",
       "description": "Senior Odoo developer and ERP consultant for Odoo 17, 18 and 19, Community and Enterprise.",
       "url": "https://raja-portfolio-lyart.vercel.app/",
-      "image": "https://raja-portfolio-lyart.vercel.app/og-image.png",
       "email": "mailto:rajakumar829891@gmail.com",
       "address": { "@type": "PostalAddress", "addressLocality": "Bhopal", "addressRegion": "Madhya Pradesh", "addressCountry": "IN" },
       "worksFor": { "@type": "Organization", "name": "Strohm Energy" },
@@ -146,6 +148,8 @@
     background: linear-gradient(135deg, var(--primary-2), var(--odoo)); font-weight: 800; font-size: 15px; color: #fff;
     box-shadow: 0 6px 18px rgba(162,70,137,0.45);
   }
+  img.brand-mark { object-fit: cover; padding: 0; border: 2px solid rgba(255,255,255,0.25); }
+  img.avatar { object-fit: cover; border: 2px solid rgba(255,255,255,0.3); }
   .brand-text { display: flex; flex-direction: column; line-height: 1.15; }
   .brand-text strong { font-size: 15px; font-weight: 800; }
   .brand-text span { font-size: 12px; color: var(--muted); font-weight: 500; }
@@ -435,7 +439,7 @@
 <header class="nav">
   <div class="container nav-inner">
     <a href="#home" class="brand" aria-label="Raja Kumar, Odoo Developer – home">
-      <span class="brand-mark">RK</span>
+      <img class="brand-mark" src="/avatar.jpg" alt="" width="38" height="38">
       <span class="brand-text"><strong>Raja Kumar</strong><span>Odoo Developer &amp; ERP Consultant</span></span>
     </a>
     <nav aria-label="Main">
@@ -490,7 +494,7 @@
     <aside class="profile-card" aria-label="At a glance">
       <span class="float-badge">Up to 75% lower cost</span>
       <div class="pc-head">
-        <span class="avatar" aria-hidden="true">RK</span>
+        <img class="avatar" src="/avatar.jpg" alt="Raja Kumar, Senior Odoo Developer" width="64" height="64">
         <div>
           <h2>Raja Kumar</h2>
           <p>Senior Odoo Developer &amp; ERP Consultant · Bhopal, India</p>
